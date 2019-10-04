@@ -7,3 +7,36 @@
 html {
     font-size: 62.5%; /* 1rem is nu 10px */
 }
+
+body {
+    font-family: Verdana, sans-serif;
+}
+
+.container {
+    width: 80%;
+    max-width: 80rem;
+    margin: 2rem auto;
+}
+
+h1 {
+    margin-bottom: 2rem;
+    font-size: 4rem;
+}
+
+#letters {
+    margin-bottom: 2rem;
+    font-size: 3rem;
+}
+
+#guessForm {
+    margin-bottom: 2rem;
+}
+
+#lives {
+    margin-bottom: 2rem;
+    font-size: 1.4rem;
+}
+
+#lettersGuessed {
+    font-size: 1.4rem;
+}
