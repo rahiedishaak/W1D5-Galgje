@@ -28,6 +28,10 @@ h1 {
     font-size: 3rem;
 }
 
+#letters span {
+    margin-right: 2rem;
+}
+
 #guessForm {
     margin-bottom: 2rem;
 }
